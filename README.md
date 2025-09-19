@@ -22,6 +22,32 @@ Aplicación web en **Vanilla JS + HTML + CSS** que permite al usuario cargar un 
 
 ### Pantalla principal
 
+---
+
+## 🛠️ Tecnologías usadas
+
+- HTML5 / CSS3
+- JavaScript (Vanilla)
+- JSZip (para generar el archivo ZIP)
+- FileSaver.js (para descargar los archivos)
+
+---
+
+## 📌 Posibles mejoras
+
+- 🎞️ Barra de preview de capturas en el timeline del video.
+- 🌐 Internacionalización (multi-idioma).
+- ⚡ Optimización para videos muy largos o muchas capturas.
+
+---
+
+## 📄 Licencia
+
+Este proyecto está bajo la licencia MIT – puedes usarlo, modificarlo y distribuirlo libremente.
+
+---
+
+## 👨‍💻 Desarrollado por Geovanny Romero [[GioHub](https://giohub.github.io/)]
 
 ---
 
