@@ -26,4 +26,4 @@ Aplicación web en **Vanilla JS + HTML + CSS** que permite al usuario cargar un 
 ---
 
 ## 🚀 Demo en vivo
-👉 []  
+👉 [https://giohub.github.io/publicProjects/WebResources/VideoClipper/index.html]Extractor de Capturas de Video
